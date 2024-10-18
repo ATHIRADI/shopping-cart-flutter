@@ -1,4 +1,4 @@
-<h1>Flutter Shopping Cart Project</h1>
+<h1>Shopping Cart Flutter</h1>
     <p>This Flutter project implements a shopping cart where users can add, remove, and modify items in their cart. The project makes use of the <strong>Provider</strong> package for state management.</p>
     <h2>Features</h2>
     <ul>
