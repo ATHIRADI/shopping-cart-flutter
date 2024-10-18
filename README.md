@@ -8,3 +8,6 @@
         <li>Displaying item quantity and total price</li>
         <li>Responsive list of cart items using <strong>Dismissible</strong> widget</li>
     </ul>
+
+https://github.com/user-attachments/assets/c5e636e0-dfa3-4a2c-9e87-aec2556d833d
+
